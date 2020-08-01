@@ -1,14 +1,14 @@
 {
-    "name": "RainbomSea",
-    "title": "RainbomSea",
-    "author": "BY <RainbomSea@qq.com>",
+    "name": "godtang",
+    "title": "godtang",
+    "author": "BY <godtang@qq.com>",
     "version": "1.1.0",
-    "homepage": "http://RainbomSea.github.io",
+    "homepage": "http://godtang.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RainbomSea/RainbomSea.github.io"
+        "url": "https://github.com/godtang/godtang.github.io"
     },
-    "bugs": "https://github.com/RainbomSea/RainbomSea.github.io/issues",
+    "bugs": "https://github.com/godtang/godtang.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
