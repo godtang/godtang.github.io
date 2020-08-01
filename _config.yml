@@ -1,10 +1,10 @@
 # Site settings | 网站设置
 title: godtang
-SEOTitle: RainbomSea的博客 | RaimbomSea
+SEOTitle: godtang的博客 | godtang
 header-img: img/home-bg-he.png
 email: godtang@qq.com
-description: "RainbomSea的博客"
-keyword: "godtang, RainbomSea的博客, rainbom sea, godtang, Python blog"
+description: "godtang的博客"
+keyword: "godtang, godtang的博客, rainbom sea, godtang, Python blog"
 url: "http://godtang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/godtang/godtang.github.io.git" #code repository | 代码仓库
